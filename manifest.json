@@ -100,15 +100,15 @@
                         "icons": [
                           {
                             "size": 16,
-                            "url": "https://padmaja-12-s.github.io/OutlookAdd-in/assets/icon-16.png"
+                            "url": "https://login.microsoftonline.com/059227af-dbff-4759-b2c3-8e7e7945fcdb/oauth2/v2.0/authorizeassets/icon-16.png"
                           },
                           {
                             "size": 32,
-                            "url": "https://padmaja-12-s.github.io/OutlookAdd-in/assets/icon-32.png"
+                            "url": "https://login.microsoftonline.com/059227af-dbff-4759-b2c3-8e7e7945fcdb/oauth2/v2.0/authorizeassets/icon-32.png"
                           },
                           {
                             "size": 80,
-                            "url": "https://padmaja-12-s.github.io/OutlookAdd-in/assets/icon-80.png"
+                            "url": "https://login.microsoftonline.com/059227af-dbff-4759-b2c3-8e7e7945fcdb/oauth2/v2.0/authorizeassets/icon-80.png"
                           }
                         ]
                       }
