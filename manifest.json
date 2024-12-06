@@ -37,7 +37,8 @@
       }
     },
     "validDomains": [
-      "padmaja-12-s.github.io"
+      "padmaja-12-s.github.io",
+      "ittridentsqa.sharepoint.com"
       
     ],
     "extensions": [
@@ -64,7 +65,7 @@
             "id": "TaskPaneRuntime",
             "type": "general",
             "code": {
-              "page": "https://padmaja-12-s.github.io/OutlookAdd-in/taskpane.html" 
+              "page": "https://ittridentsqa.sharepoint.com/sites/TridentSQAM365InternalSolution/Dynamic%20Files/taskpane.html" 
             },
             "lifetime": "short",
             "actions": [
